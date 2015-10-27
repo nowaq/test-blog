@@ -1,3 +1,7 @@
+---
+title: Drugi
+layout: post
+---
 asdf
 
 # header
