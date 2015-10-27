@@ -1,0 +1,1 @@
+Nowy testowy z classieur.
