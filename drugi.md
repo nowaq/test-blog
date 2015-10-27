@@ -1,8 +1,9 @@
 ---
 title: Drugi
 layout: post
-published: false
+published: true
 ---
+
 
 asdf
 
