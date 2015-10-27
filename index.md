@@ -1,6 +1,8 @@
 ---
 title: Witojcie
+published: true
 ---
+
 
 ## A New Post
 
